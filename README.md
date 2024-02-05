@@ -40,7 +40,7 @@ This application is deployed on Vercel Please check it out :smile: [here](https:
 Some basic Git commands are:
 
 ```
-$ git clone https://github.com/mohamedsamara/mern-ecommerce.git
+
 $ cd project
 $ npm install
 ```
