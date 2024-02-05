@@ -23,7 +23,7 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
 * The seed command will create an admin user in the database
 * The email and password are passed with the command as arguments
 * Like below command, replace brackets with email and password. 
-* For more information, see code [here](server/utils/seed.js)
+
 
 ```
 npm run seed:db [email-***@****.com] [password-******] // This is just an example.
@@ -33,7 +33,7 @@ npm run seed:db [email-***@****.com] [password-******] // This is just an exampl
 
 This application is deployed on Vercel Please check it out :smile: [here](https://mern-store-gold.vercel.app).
 
-See admin dashboard [demo](https://mernstore-bucket.s3.us-east-2.amazonaws.com/admin.mp4)
+
 
 ## Install
 
